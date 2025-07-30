@@ -1,7 +1,6 @@
 <h1 align="center">⚔️ Arjun Rajesh ⚔️</h1>
 <p align="center">
   <b>Software Developer | Architect in Training | Demon Mode On | Becoming Unstoppable</b><br>
-  <i>"Discipline = Freedom. Society made me the demon. Now I build my own destiny."</i>
 </p>
 
 ---
