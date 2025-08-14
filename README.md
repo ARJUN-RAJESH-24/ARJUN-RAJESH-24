@@ -37,24 +37,38 @@
 
 ### 🗃️ Featured Projects
 
+- 🔹 **Password-Vault**  
+  _A secure, on-device password vault app built with Flutter, featuring AES-256 encryption and encrypted export/import._  
+  `Flutter | Dart | AES-256`
+
+- 🔹 **WinKnight**  
+  _An automated, self-healing Windows tool that proactively creates restore points, diagnoses system issues, and performs repairs using modules like **RestoreGuard** and **SelfHeal**._  
+  `C# | Windows API | System Automation`
+
+- 🔹 **Demon Mode Protocol (Android App)**  
+  _Track mind, body, and soul transformation with full logging, statistics, and Demon Score tracking._  
+  `TypeScript | HTML | Flutter | Firebase | SQLite`
+
 - 🔹 [**CBSE Result Portal**](https://github.com/ARJUN-RAJESH-24/CBSE-Exam-Result-Publisher-and-Student-Viewing-Site)  
   _Web-based result publishing + viewing system._  
   `Node.js | Express | Handlebars | Python`
 
-- 🔹 [**Geometric Shape Generator**](https://github.com/ARJUN-RAJESH-24/Advanced-Geometric-Shape-Generator)  
+- 🔹 [**Advanced Geometric Shape Generator**](https://github.com/ARJUN-RAJESH-24/Advanced-Geometric-Shape-Generator)  
   _2D/3D shape visualizer using Swing GUI._  
   `Java | Java Swing`
 
-- 🔹 [**DemonModeProtocol (Mobile App)**](https://github.com/ARJUN-RAJESH-24/DemonModeProtocol_Git)  
-  _Track mind, body, and soul transformation._  
-  `Flutter | Dart | Firebase | SQLite`
-
-- 🔹 [**Trading.ai**](https://github.com/ARJUN-RAJESH-24/Trading.ai)  
+- 🔹 **Trading.ai**  
   _Exploring AI-powered trading bots._  
   `Python | AI/ML`
 
----
+- 🔹 **Semester Planner**  
+  _Plan, track, and manage your semester workload._  
+  `Python | Tkinter`
 
+- 🔹 **Portfolio**  
+  _My personal portfolio website showcasing skills, projects, and contact info._  
+  `HTML | CSS | JavaScript`
+---
 ### ⚡ GitHub Stats
 
 <p align="center">
