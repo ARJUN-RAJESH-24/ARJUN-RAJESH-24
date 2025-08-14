@@ -58,8 +58,8 @@
 ### ⚡ GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARJUN-RAJESH-24&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ARJUN-RAJESH-24&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -118,14 +118,27 @@
   🔹 Role: Debugging Necromancer
   🔹 Buff: +100 Confidence from copy-paste
 
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://github.com/ARJUN-RAJESH-24">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arjun-rajesh-30860728b/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:arjunrajesh59@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-🔗 Connect with Me
-GitHub: @ARJUN-RAJESH-24
+<pre align="center">
+███████╗ ██████╗███████╗████████╗██╗ ██╗███████╗██████╗ 
+██╔════╝██╔════╝██╔════╝╚══██╔══╝██║ ██║██╔════╝██╔══██╗
+█████╗  ██║     █████╗     ██║   ██║ ██║█████╗  ██████╔╝
+██╔══╝  ██║     ██╔══╝     ██║   ██║ ██║██╔══╝  ██╔══██╗
+███████╗╚██████╗███████╗   ██║   ╚█████╔╝███████╗██║  ██║
+╚══════╝ ╚═════╝╚══════╝   ╚═╝    ╚════╝ ╚══════╝╚═╝  ╚═╝
+</pre>
 
-Email: arjunrajesh99@gmail.com
-
-LinkedIn: Your LinkedIn Profile <!-- Replace this -->
-
-<pre align="center"> ███████╗ ██████╗███████╗████████╗██╗ ██╗███████╗██████╗ ██╔════╝██╔════╝██╔════╝╚══██╔══╝██║ ██║██╔════╝██╔══██╗ █████╗ ██║ █████╗ ██║ ██║ ██║█████╗ ██████╔╝ ██╔══╝ ██║ ██╔══╝ ██║ ██║ ██║██╔══╝ ██╔══██╗ ██║ ╚██████╗███████╗ ██║ ╚██████╔╝███████╗██║ ██║ ╚═╝ ╚═════╝╚══════╝ ╚═╝ ╚═════╝╚══════╝╚═╝ ╚═╝ </pre> <p align="center">✨ Welcome to my digital forge. Here, code becomes destiny. ✨</p> ```
-
+<p align="center">✨ Welcome to my digital forge. Here, code becomes destiny. ✨</p>
 
