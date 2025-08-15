@@ -57,9 +57,12 @@
   _2D/3D shape visualizer using Swing GUI._  
   `Java | Java Swing`
 
-- 🔹 **Trading.ai**  
-  _Exploring AI-powered trading bots._  
-  `Python | AI/ML`
+- 🔹 **AI Video and Photo Upscaler**  
+  _ AI Video and Photo Upscaler
+Upscale your images and videos with the Real-ESRGAN deep learning model.
+Modern, responsive UI + cross-platform backend for professional-grade enhancement._ 
+
+`Python | Flask |Tailwind | CSS`
 
 - 🔹 **Semester Planner**  
   _Plan, track, and manage your semester workload._  
