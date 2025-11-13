@@ -1,6 +1,6 @@
 <h1 align="center">⚔️ Arjun Rajesh ⚔️</h1>
 <p align="center">
-  <b>Software Developer | Architect in Training | Demon Mode On | Becoming Unstoppable</b><br>
+  <b>Software Developer | Architect in Training  | Becoming Unstoppable</b><br>
 </p>
 
 ---
