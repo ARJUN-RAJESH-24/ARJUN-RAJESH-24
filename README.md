@@ -1,142 +1,88 @@
 <h1 align="center">⚔️ Arjun Rajesh ⚔️</h1>
-<p align="center">
-  <b>Software Developer | Architect in Training  | Becoming Unstoppable</b><br>
-</p>
+<p align="center"><b>Software Developer | Systems Architect (in training) | Relentlessly Improving</b></p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🚀 Passionate about building **robust**, **secure**, and **high-performance systems**.
-- 🦾 Backend in **Rust**, UI in **React**, always exploring new tech.
-- 🧠 21 y/o | CS Undergrad | Architect of my own evolution.
-- 🧪 Currently focused on: **Cybersecurity**, **System Design**, and **Demon Mode 3.0**.
-
----
-
-### 🛠️ Tech Stack
-
-| Category    | Technologies                                                  |
-|-------------|---------------------------------------------------------------|
-| Languages   | Java, Python, C++, JavaScript, Dart, Rust                     |
-| Frontend    | React, Flutter, HTML, CSS (Tailwind CSS)                      |
-| Backend     | Node.js (Express), Rust (Axum), Python (Flask)                |
-| Databases   | MySQL, Firebase, MongoDB, SQLite, SQL                         |
-| AI/ML       | TensorFlow, NumPy, Pandas                                     |
-| Tools       | Git, Postman, VS Code, Figma, npm, Cargo, Vite                |
+- Passionate about building **robust**, **secure**, and **high-performance systems**.  
+- Strong focus on **backend engineering**, **system design**, and **cybersecurity**.  
+- Skilled in **Rust** for systems work and **React/Flutter** for clean UI/UX.  
+- 21-year-old CS undergrad committed to continuous growth and engineering discipline.  
+- Currently focused on: **Cybersecurity**, **System Architecture**, and **Demon Mode 3.0**.
 
 ---
 
-### 🎯 Current Mission
+## 🛠️ Tech Stack
 
-- 🔥 **Demon Mode 3.0**: Train mind, body, and machine.
-- 📱 Building: **Demon Mode Protocol Tracker App** in Flutter.
-- 📚 Grinding: **DSA + System Design** for placement domination.
+| Category      | Technologies |
+|---------------|--------------|
+| **Languages** | Java, Python, C++, JavaScript, Dart, Rust |
+| **Frontend**  | React, Flutter, Tailwind CSS, HTML/CSS |
+| **Backend**   | Node.js (Express), Rust (Axum), Python (Flask) |
+| **Databases** | MySQL, MongoDB, Firebase, SQLite, SQL |
+| **AI/ML**     | TensorFlow, NumPy, Pandas |
+| **Tools**     | Git, Docker, Postman, VS Code, Figma, npm, Cargo, Vite |
 
 ---
 
-### 🗃️ Featured Projects
+## 🎯 Current Focus
 
-- 🔹 **Password-Vault**  
-  _A secure, on-device password vault app built with Flutter, featuring AES-256 encryption and encrypted export/import._  
-  `Flutter | Dart | AES-256`
+- **Demon Mode 3.0** — optimizing discipline, performance, and consistency.  
+- Building the **Demon Mode Protocol Tracker App** in Flutter.  
+- Preparing with **DSA + System Design** for high-performance engineering roles.
 
-- 🔹 **WinKnight**  
-  _An automated, self-healing Windows tool that proactively creates restore points, diagnoses system issues, and performs repairs using modules like **RestoreGuard** and **SelfHeal**._  
-  `C# | Windows API | System Automation`
-
-- 🔹 **Demon Mode Protocol (Android App)**  
-  _Track mind, body, and soul transformation with full logging, statistics, and Demon Score tracking._  
-  `TypeScript | HTML | Flutter | Firebase | SQLite`
-
-- 🔹 [**CBSE Result Portal**](https://github.com/ARJUN-RAJESH-24/CBSE-Exam-Result-Publisher-and-Student-Viewing-Site)  
-  _Web-based result publishing + viewing system._  
-  `Node.js | Express | Handlebars | Python`
-
-- 🔹 [**Advanced Geometric Shape Generator**](https://github.com/ARJUN-RAJESH-24/Advanced-Geometric-Shape-Generator)  
-  _2D/3D shape visualizer using Swing GUI._  
-  `Java | Java Swing`
-
-- 🔹 **AI Video and Photo Upscaler**  
-  _ AI Video and Photo Upscaler
-Upscale your images and videos with the Real-ESRGAN deep learning model.
-Modern, responsive UI + cross-platform backend for professional-grade enhancement._ 
-
-`Python | Flask |Tailwind | CSS`
-
-- 🔹 **Semester Planner**  
-  _Plan, track, and manage your semester workload._  
-  `Python | Tkinter`
-
-- 🔹 **Portfolio**  
-  _My personal portfolio website showcasing skills, projects, and contact info._  
-  `HTML | CSS | JavaScript`
 ---
-### ⚡ GitHub Stats
+
+## 🗃️ Featured Projects
+
+### 🔹 Password Vault  
+A secure, on-device password manager with AES-256 encryption.  
+**Tech:** Flutter · Dart · AES-256
+
+### 🔹 WinKnight  
+Automated Windows healing tool that creates restore points, diagnoses issues, and performs fixes.  
+**Tech:** C# · Windows API · System Automation
+
+### 🔹 Demon Mode Protocol App  
+Tracks training, nutrition, discipline metrics, and Demon Score progression.  
+**Tech:** Flutter · TypeScript · Firebase · SQLite
+
+### 🔹 CBSE Result Portal  
+Complete result publishing + student viewing system.  
+**Tech:** Node.js · Express · Handlebars · Python  
+**Repo:** https://github.com/ARJUN-RAJESH-24/CBSE-Exam-Result-Publisher-and-Student-Viewing-Site
+
+### 🔹 Advanced Geometric Shape Generator  
+Interactive 2D/3D geometric visualizer.  
+**Tech:** Java · Swing
+
+### 🔹 AI Video & Photo Upscaler  
+Real-ESRGAN–powered image & video enhancement tool.  
+**Tech:** Python · Flask · Tailwind
+
+### 🔹 Semester Planner  
+Desktop planner for organizing academic workload.  
+**Tech:** Python · Tkinter
+
+### 🔹 Portfolio Website  
+Responsive personal portfolio website.  
+**Tech:** HTML · CSS · JavaScript
+
+---
+
+## ⚡ GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ARJUN-RAJESH-24&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
 
+
 ---
 
-### 🧠 ASCII Meme Wall
+## 🔗 Connect with Me
 
-#### 🧟‍♂️ When You Debug at 3AM
-```text
-          (╯°□°)╯︵ ┻━┻  
-        Fix one bug... spawn three more
-        You are not coding. You're conjuring.
-
-            👾👾👾
-        The bugs are sentient now.
-
-
-    git commit -m "final fix"
-             ⬇️
-        [ SYSTEM SHAKING ]
-     [⛓] You have awakened something...
-        [🔥] Too late to rollback
-
-  _______  _______  _______  __   __     __   __  _______  ______
- |       ||       ||       ||  | |  |   |  |_|  ||       ||    _ |
- |  _____||_     _||    ___||  |_|  |   |       ||    ___||   | ||
- | |_____   |   |  |   |___ |       |   |       ||   |___ |   |_||_
- |_____  |  |   |  |    ___||       |   |       ||    ___||    __  |
-  _____| |  |   |  |   |___ |   _   |   | ||_||  ||   |___ |   |  | |
- |_______|  |___|  |_______||__| |__|   |_|   |_||_______||___|  |_|
-
- 🔥 DEMON MODE 3.0 BOOTED SUCCESSFULLY 🔥
-
-
-    ERROR 404: SANITY NOT FOUND
-
-    [WARNING] CPU TEMP: 99°C
-    [WARNING] RAM: 95% used
-    [WARNING] BRAIN: Segmentation Fault
-
-    Action: Keep coding anyway
-    Mood: 🙃
-               ☠️ DEMON MODE CHECKLIST ☠️
-    ┌───────────────────────────────────────┐
-    │ 💪  Mind      : [██████████] 100%      │
-    │ 🏃  Body      : [████████░░] 90%       │
-    │ 🧠  Code      : [██████████] 100%      │
-    │ 🧊  Emotion   : [░░░░░░░░░░] Suppressed│
-    │ ☕  Caffeine  : [CRITICAL] ☠️          │
-    └───────────────────────────────────────┘
-      🧬 Transformation in progress...
-
-
-
-        You leveled up! 🎲
-  🔹 Title: Stack Overflow Warlock
-  🔹 Role: Debugging Necromancer
-  🔹 Buff: +100 Confidence from copy-paste
-
-```
-### 🔗 Connect with Me
 <p align="center">
   <a href="https://github.com/ARJUN-RAJESH-24">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -149,6 +95,7 @@ Modern, responsive UI + cross-platform backend for professional-grade enhancemen
   </a>
 </p>
 
+---
 
 <pre align="center">
 ███████╗ ██████╗███████╗████████╗██╗ ██╗███████╗██████╗ 
@@ -159,5 +106,4 @@ Modern, responsive UI + cross-platform backend for professional-grade enhancemen
 ╚══════╝ ╚═════╝╚══════╝   ╚═╝    ╚════╝ ╚══════╝╚═╝  ╚═╝
 </pre>
 
-<p align="center">✨ Welcome to my digital forge. Here, code becomes destiny. ✨</p>
-```
+<p align="center"><i>Welcome to my engineering forge — where ideas become systems.</i></p>
