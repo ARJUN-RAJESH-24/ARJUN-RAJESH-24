@@ -1,18 +1,33 @@
 # 🎮 PLAYER: ARJUN RAJESH // LEVEL 21 // CLASS: SYSTEMS ARCHITECT
 
 ```ascii
-⠀⠀⠀⠀⠀⠀⠀⣀⣤⣴⣶⣾⣿⣿⣿⣿⣷⣶⣦⣤⣀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣄⠀⠀⠀⠀
-⠀⠀⣠⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣄⠀⠀
-⠀⣼⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀
-⢰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡆
-⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇
-⠸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠇
-⠀⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⠀
-⠀⠀⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀⠀
-⠀⠀⠀⠙⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀
-⠀⠀⠀⠀⠀⠙⠻⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠟⠋⠀⠀⠀⠀⠀
-        > COMPILING GREATNESS... 
+    ⚔️ DEMON MODE 3.0 - ENGINEERING FORGE ⚔️
+    
+    ╔═══════════════════════════════════════════════════╗
+    ║                                                   ║
+    ║     ⚙️  {  CODE  }  ⚙️         🛡️  SECURE  🛡️    ║
+    ║                                                   ║
+    ║         💪  DISCIPLINE                            ║
+    ║              ↓                                    ║
+    ║         🔥  SYSTEMS   ←→   🏗️  ARCHITECT         ║
+    ║              ↓                                    ║
+    ║         🚀  DEPLOY                                ║
+    ║                                                   ║
+    ║     [ Rust 🦀 | React ⚛️ | Flutter 🎯 ]          ║
+    ║                                                   ║
+    ║   "Building robust systems, one commit at a time" ║
+    ║                                                   ║
+    ╚═══════════════════════════════════════════════════╝
+    
+    ┌─────────────────────────────────────────────────┐
+    │  STATUS: ████████████████████ 100% OPERATIONAL  │
+    │  FOCUS:  Cybersecurity • System Design • DSA    │
+    │  MODE:   🔥 DEMON MODE 3.0 ACTIVE 🔥            │
+    └─────────────────────────────────────────────────┘
+    
+            > COMPILING GREATNESS...
+            > OPTIMIZING EVERYTHING...
+            > READY TO DEPLOY! ✓
 ```
 
 <div align="center">
@@ -175,6 +190,48 @@ Secondary_Gear:
 
 **STACK:** HTML • CSS • JavaScript  
 **DESIGN:** Responsive, clean, legendary
+
+---
+
+## ⚡ TYPING SPEED: FLASH MODE ACTIVATED
+
+<div align="center">
+
+```
+╔═══════════════════════════════════════════════════════════╗
+║              ⌨️  MONKEYTYPE SPEEDSTER STATS  ⚡           ║
+╠═══════════════════════════════════════════════════════════╣
+║                                                           ║
+║  🏆 15s Record:  70 WPM  |  💯 Accuracy: 100%            ║
+║  🎯 30s Record:  62 WPM  |  💯 Accuracy: 95%             ║
+║  ⚡ 60s Record:  46 WPM  |  💯 Accuracy: 86%             ║
+║                                                           ║
+║  📊 Tests Completed: 137  |  🔥 Tests Started: 1379      ║
+║  ⏱️  Time Typing: 02:17:28                               ║
+║  🎮 Current Streak: 8 days                               ║
+║                                                           ║
+║  "My fingers move at the speed of light" — Barry Allen   ║
+║                                                           ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+```ascii
+    ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+    
+    THE FLASH - KEYBOARD EDITION
+    
+         ⚡                      💨💨💨
+        /|\     →→→→→→→→→→→    ⌨️⌨️⌨️
+        / \     70 WPM BLAST!   
+        
+    "Life's too short for slow typing"
+    
+    ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+```
+
+[![MonkeyType Profile](https://img.shields.io/badge/MonkeyType-arjunr24-FF6600?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAAi0lEQVR42mNkgAJGBgYmBjYQm5mBhZmZkYWRhZWVjY2djZWNjY2VjZWVlY2NlZWVjY2VlZWNjY2VlZWVjY2NlZWVjY2NlZWVlY2VjY2NlZWVjZWVlY2NjY2VlZWVlZWNjY2NlZWVlZWVjY2NjZWVlZWVlY2NjZWVlZWVlZWNjY2VlZWVlZWVjQ0AAGNVBC88C/FwAAAABJRU5ErkJggg==&logoColor=white)](https://monkeytype.com/profile/arjunr24)
+
+</div>
 
 ---
 
