@@ -30,7 +30,7 @@
 ```rust
 fn main() {
     let arjun = Developer {
-        location: "Payyanur, Kerala 🌴",
+        location: "Ponmana, Kerala 🌴",
         age: 21,
         motto: "Relentlessly Improving",
         current_quest: vec![
