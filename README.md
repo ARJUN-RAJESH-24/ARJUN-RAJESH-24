@@ -178,44 +178,143 @@ Secondary_Gear:
 
 ---
 
-## 📈 POWER STATS & ACHIEVEMENTS
+## 🎬 THE MULTIVERSE OF INFLUENCES
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ARJUN-RAJESH-24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ARJUN-RAJESH-24&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF" width="49%" />
+```ascii
+    ⚡ GOJO SATORU ⚡               🦾 IRON MAN 🦾                 🏎️ MAX VERSTAPPEN 🏎️
+        
+   ∞∞∞∞∞∞∞∞∞∞∞                    ⚙️🔴⚙️                         🏁 #1 🏁
+   ∞  👁️ 👁️  ∞                    /|.|.\                    
+   ∞           ∞                   |.|.|.|                   ═══🏎️═══>💨💨💨
+   ∞    ___    ∞                  |  ⚡  |                   
+   ∞∞∞∞∞∞∞∞∞∞∞                   |_______|                "Simply Lovely"
+                                  /|\   /|\
+  "Limitless"                   ⚙️ ⚙️ ⚙️ ⚙️           "Box box, we are checking"
+  Domain Expansion              Arc Reactor                 
+  on Code Problems              Powered                   Fastest Coder
+                                                          on the Grid
+```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARJUN-RAJESH-24&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=FF6D00&point=FFFFFF" width="49%" />
+```ascii
+     🦇 BATMAN 🦇                  🤖 OPTIMUS PRIME 🤖           💥 SAITAMA 💥
+        
+      /\_/\                          ╔═══╗                      ●    ●
+     ( o.o )                         ║ █ ║                       \__/
+      > ^ <                          ║███║                       ====
+     /|   |\                        ╔╝█|█╚╗                     ══════
+    (_|   |_)                       ║ ▓▓▓ ║                    |      |
+                                   ╚═══════╝                   |      |
+  "I'm vengeance"              "Freedom is the              "OK" *destroys
+   "I'm the night"              right of all                 any bug with
+   "I'm Batman"                 sentient beings"             one punch*
+                                                          
+  Gotham's Debugger           Autobots, Roll Out!         One Commit Man
+```
 
 </div>
 
 ---
 
-## 🎬 INSPIRATION PROTOCOL
+## 📈 POWER STATS & ACHIEVEMENTS
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=ARJUN-RAJESH-24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)
+
+![](https://nirzak-streak-stats.vercel.app/?user=ARJUN-RAJESH-24&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8)
+
+</div>
+
+---
+
+## 🌟 INSPIRATION PROTOCOL
 
 ```javascript
 const influences = {
-    superheroes: ["Iron Man 🦾", "Batman 🦇", "Doctor Strange ⭕", "Vision 💎"],
-    speedsters: ["Lightning McQueen 🏎️", "Dom Toretto 🚗", "Lewis Hamilton 🏁"],
-    anime: ["Gojo Satoru 👁️", "Saitama 👊", "Optimus Prime 🤖"],
-    shows: ["How I Met Your Mother 🍺", "The Office 📎"],
-    philosophy: "Move fast, break things, fix them faster 🛠️",
-    meme_taste: "Vintage 2010-2015 era 👌"
+    superheroes: {
+        marvel: ["Iron Man 🦾", "Doctor Strange ⭕", "Vision 💎"],
+        dc: ["Batman 🦇", "The Flash ⚡"],
+        motto: "Not all heroes wear capes, but all heroes write clean code"
+    },
+    racing: {
+        f1: ["Max Verstappen 🏆 (Simply Lovely)", "Lewis Hamilton 👑", "Charles Leclerc 🏎️"],
+        movies: ["Dom Toretto 🚗 (Family = Team)", "Lightning McQueen ⚡"],
+        philosophy: "If you no longer go for a gap in the code, you're no longer a developer"
+    },
+    transformers: {
+        leaders: ["Optimus Prime 🤖", "Bumblebee 🐝"],
+        quote: "Freedom is the right of all sentient beings... and open source software"
+    },
+    anime: {
+        jjk: "Gojo Satoru 👁️ - Limitless domain expansion on problems",
+        opm: "Saitama 👊 - One punch debugging",
+        vibes: "Training arc never ends"
+    },
+    tv_shows: {
+        himym: "How I Met Your Mother 🍺 - Legendary!",
+        office: "The Office 📎 - That's what she said (about my code quality)"
+    },
+    gaming: "Boss battles = Technical interviews",
+    memes: "2010-2015 Golden Era 👌 (Rage comics forever)",
+    philosophy: "Move fast, break things, fix them faster, meme about it 🛠️"
 };
 
-console.log("Powered by caffeine, memes, and relentless ambition ☕");
+console.log("Powered by: caffeine ☕ + memes 😂 + relentless ambition 🚀");
+console.log("Current status: Demon Mode 3.0 | All systems go 💯");
 ```
 
 ---
 
 ## 🎯 CURRENT MISSIONS
 
+<div align="center">
+
+```
+╔════════════════════════════════════════════════════════╗
+║  🎯 MISSION LOG - DEMON MODE 3.0 ACTIVE               ║
+╠════════════════════════════════════════════════════════╣
+║  [ ⚔️  ] Cybersecurity Mastery                        ║
+║  [ 🏗️  ] System Design Domination                     ║
+║  [ 💪 ] Demon Mode Protocol Development               ║
+║  [ 📈 ] DSA + System Design (Boss Battle Prep)        ║
+║  [ 🌍 ] Open Source Contributions                     ║
+║  [ 🔥 ] Building Legendary Systems                    ║
+╚════════════════════════════════════════════════════════╝
+```
+
+</div>
+
 - [ ] **Cybersecurity Mastery** - Because hackers need worthy opponents
 - [ ] **System Design Domination** - Building systems that scale to infinity
 - [ ] **Demon Mode 3.0** - Optimizing discipline, performance, consistency
 - [ ] **DSA + System Design Prep** - FAANG+ interviews are just boss battles
 - [ ] **Open Source Contributions** - Giving back to the community
+
+---
+
+## 💬 LEGENDARY QUOTES
+
+<div align="center">
+
+> *"Perfectly balanced code, as all things should be."* — Thanos
+
+> *"I can do this all day... debugging."* — Captain America
+
+> *"It's not who I am underneath, but what I code that defines me."* — Batman
+
+> *"To finish first, first you have to finish (your code)."* — Every F1 Driver
+
+> *"I live my life one commit at a time."* — Dom Toretto
+
+> *"With great power comes great documentation."* — Uncle Ben (Developer Edition)
+
+> *"Nah, I'd win."* — Gojo Satoru (before a code review)
+
+</div>
 
 ---
 
@@ -231,16 +330,6 @@ console.log("Powered by caffeine, memes, and relentless ambition ☕");
 
 ---
 
-## 💬 LEGENDARY QUOTES
-
-> *"Perfectly balanced code, as all things should be."* — Thanos (if he was a developer)
-
-> *"I can do this all day... debugging."* — Captain America (probably)
-
-> *"It's not who I am underneath, but what I code that defines me."* — Batman (in an alternate universe)
-
----
-
 <div align="center">
 
 ```ascii
@@ -253,15 +342,22 @@ console.log("Powered by caffeine, memes, and relentless ambition ☕");
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
-### 📊 Profile Views
+### 📊 Profile Views & Achievements
+
 ![](https://komarev.com/ghpvc/?username=ARJUN-RAJESH-24&color=00F7FF&style=for-the-badge)
 
-### ⭐ If you like what you see, drop a star on my repos!
+![](https://github-profile-trophy.vercel.app/?username=ARJUN-RAJESH-24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
 
 ---
 
+### ⭐ If you like what you see, drop a star on my repos!
+
 **STATUS:** `Currently accepting collaboration requests for epic projects` 🤝
 
-*Last Updated: December 2025 | Version: Demon Mode 3.0*
+<sub>*"Legen... wait for it... dary! LEGENDARY!"* — Barney Stinson</sub>
+
+---
+
+*Last Updated: December 2025 | Version: Demon Mode 3.0 | Powered by: ∞*
 
 </div>
