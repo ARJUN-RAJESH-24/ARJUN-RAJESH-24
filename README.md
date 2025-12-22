@@ -1,9 +1,15 @@
-🎮 PLAYER: ARJUN RAJESH // LEVEL 21 // CLASS: SYSTEMS ARCHITECT
-"With great power comes great compile times" — Uncle Ben (probably)
-Show Image
+# 🎮 PLAYER: ARJUN RAJESH // LEVEL 21 // CLASS: SYSTEMS ARCHITECT
 
-🏎️ CURRENT STATUS: DEMON MODE 3.0 ACTIVATED
-rustfn main() {
+### *"With great power comes great compile times"* — Uncle Ben (probably)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF¢er=true&vCenter=true&width=600&lines=Backend+Sorcerer+%F0%9F%A7%99;System+Design+Enthusiast;Rust+%7C+React+%7C+Flutter;Building+The+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+
+---
+
+## 🏎️ CURRENT STATUS: **DEMON MODE 3.0 ACTIVATED**
+
+```rust
+fn main() {
     let arjun = Developer {
         location: "Ponmana, Kerala 🌴",
         age: 21,
@@ -110,6 +116,7 @@ Git/GitHub • Docker • VS Code • Postman • Figma • Cargo/npm/Vite
 ---
 
 ## ⚡ TYPING SPEED: FLASH MODE ACTIVATED
+
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║            ⌨️  MONKEYTYPE SPEEDSTER STATS  ⚡             ║
@@ -126,7 +133,10 @@ Git/GitHub • Docker • VS Code • Postman • Figma • Cargo/npm/Vite
 ║   "My fingers move at the speed of light" — Barry Allen  ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
-ascii⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
+```
+
+```ascii
+⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
    THE FLASH - KEYBOARD EDITION ⚡
             💨💨💨
              /|\     →→→→→→→→→→→  ⌨️⌨️⌨️
@@ -134,10 +144,16 @@ ascii⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
             
    "Life's too short for slow typing"
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
-Show Image
+```
 
-🎬 THE MULTIVERSE OF INFLUENCES
-ascii   ⚡ GOJO SATORU ⚡                            🏎️ MAX VERSTAPPEN 🏎️
+[![MonkeyType Profile](https://img.shields.io/badge/MonkeyType-arjunr24-FF6600?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAAi0lEQVR42mNkgAJGBgYmBjYQm5mBhZmZkYWRhZWVjY2djZWNjY2VjZWVlY2NlZWVjY2VlZWNjY2VlZWVjY2NlZWVjY2NlZWVlY2VjY2NlZWVjZWVlY2NjY2VlZWVlZWNjY2NlZWVlZWVjY2NjZWVlZWVlY2NjZWVlZWVlZWNjY2VlZWVlZWVjQ0AAGNVBC88C/FwAAAABJRU5ErkJggg==&logoColor=white)](https://monkeytype.com/profile/arjunr24)
+
+---
+
+## 🎬 THE MULTIVERSE OF INFLUENCES
+
+```ascii
+   ⚡ GOJO SATORU ⚡                            🏎️ MAX VERSTAPPEN 🏎️
       ∞∞∞∞∞∞∞∞∞∞∞                                  🏁 #1 🏁
          ∞ 👁️ 👁️ ∞                             ═══🏎️═══>💨💨💨
          ∞ ___ ∞               
@@ -146,8 +162,11 @@ ascii   ⚡ GOJO SATORU ⚡                            🏎️ MAX VERSTAPPEN �
                                                 "Box box, we are checking"
      "Limitless"                                         
   Domain Expansion on                         Fastest Coder on the Grid
-     Code Problems
-ascii     🦇 BATMAN 🦇                                💥 SAITAMA 💥
+     Code Problems            
+```
+
+```ascii
+     🦇 BATMAN 🦇                                💥 SAITAMA 💥
         /\_/\                                        ● ●
        ( o.o )                                       \__/
         > ^ <                                         ====
@@ -159,53 +178,70 @@ ascii     🦇 BATMAN 🦇                                💥 SAITAMA 💥
     I'm Batman"                                  one punch*
     
   Gotham's Debugger                           One Commit Man
+```
 
-📈 POWER STATS & ACHIEVEMENTS
-Show Image
-Show Image
-Show Image
+---
 
-💬 LEGENDARY QUOTES
+## 📈 POWER STATS & ACHIEVEMENTS
 
-"Perfectly balanced code, as all things should be." — Thanos
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARJUN-RAJESH-24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)
 
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ARJUN-RAJESH-24&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF)
 
-"I can do this all day... debugging." — Captain America
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8)
 
+---
 
-"It's not who I am underneath, but what I code that defines me." — Batman
+## 💬 LEGENDARY QUOTES
 
+> *"Perfectly balanced code, as all things should be."* — Thanos
 
-"To finish first, first you have to finish (your code)." — Every F1 Driver
+> *"I can do this all day... debugging."* — Captain America
 
+> *"It's not who I am underneath, but what I code that defines me."* — Batman
 
-"I live my life one commit at a time." — Dom Toretto
+> *"To finish first, first you have to finish (your code)."* — Every F1 Driver
 
+> *"I live my life one commit at a time."* — Dom Toretto
 
-"With great power comes great documentation." — Uncle Ben (Developer Edition)
+> *"With great power comes great documentation."* — Uncle Ben (Developer Edition)
 
+> *"Nah, I'd win."* — Gojo Satoru (before a code review)
 
-"Nah, I'd win." — Gojo Satoru (before a code review)
+---
 
+## 🔗 CONNECT WITH THE DEVELOPER
 
-🔗 CONNECT WITH THE DEVELOPER
-Show Image
-Show Image
-Show Image
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/ARJUN-RAJESH-24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF)](https://www.linkedin.com/in/arjun-rajesh-30860728b/)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF)](mailto:arjunrajesh59@gmail.com)
 
-ascii╔═══════════════════════════════════════════════════════════╗
+---
+
+```ascii
+╔═══════════════════════════════════════════════════════════╗
 ║                                                           ║
 ║      🚀 BUILDING THE FUTURE, ONE COMMIT AT A TIME 🚀      ║
 ║                                                           ║
 ║    "In a world of code, be the compiler that never fails" ║
 ║                                                           ║
 ╚═══════════════════════════════════════════════════════════╝
-📊 Profile Views & Achievements
-Show Image
-Show Image
+```
 
-⭐ If you like what you see, drop a star on my repos!
-STATUS: Currently accepting collaboration requests for epic projects 🤝
-"Legen... wait for it... dary! LEGENDARY!" — Barney Stinson
+### 📊 Profile Views & Achievements
 
-Last Updated: December 2025 | Version: Demon Mode 3.0 | Powered by: ∞
+![Profile Views](https://komarev.com/ghpvc/?username=ARJUN-RAJESH-24&color=00F7FF&style=for-the-badge)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ARJUN-RAJESH-24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+
+---
+
+### ⭐ If you like what you see, drop a star on my repos!
+
+**STATUS:** `Currently accepting collaboration requests for epic projects` 🤝
+
+*"Legen... wait for it... dary! LEGENDARY!"* — Barney Stinson
+
+---
+
+*Last Updated: December 2025 | Version: Demon Mode 3.0 | Powered by: ∞*
