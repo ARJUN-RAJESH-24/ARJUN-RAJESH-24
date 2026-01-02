@@ -186,11 +186,25 @@ Git/GitHub • Docker • VS Code • Postman • Figma • Cargo/npm/Vite
 
 ## 📈 POWER STATS & ACHIEVEMENTS
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARJUN-RAJESH-24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARJUN-RAJESH-24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF)](https://github.com/ARJUN-RAJESH-24)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ARJUN-RAJESH-24&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ARJUN-RAJESH-24&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF)](https://github.com/ARJUN-RAJESH-24)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8)](https://github.com/ARJUN-RAJESH-24)
+
+</div>
+
+```
+📊 CODING STATS OVERVIEW
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+🔥 Main Languages: C, C++, Java, Rust, Python, TypeScript, Dart
+💼 Repositories: Public & Private projects across various domains
+⚡ Current Focus: System Architecture, Cybersecurity, FAANG Prep
+🎯 Specialty: Backend Development, Full-Stack Applications, AI/ML
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
 
 ---
 
