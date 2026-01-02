@@ -6,7 +6,7 @@
 
 ---
 
-## 🏎️ CURRENT STATUS: **DEMON MODE 3.0 ACTIVATED**
+## 🏎️ CURRENT STATUS: **FULL THROTTLE**
 
 ```rust
 fn main() {
@@ -122,13 +122,15 @@ Git/GitHub • Docker • VS Code • Postman • Figma • Cargo/npm/Vite
 ║            ⌨️  MONKEYTYPE SPEEDSTER STATS  ⚡             ║
 ╠═══════════════════════════════════════════════════════════╣
 ║                                                           ║
-║  🏆 15s Record: 70 WPM  |  💯 Accuracy: 100%             ║
+║  🏆 15s Record: 76 WPM  |  💯 Accuracy: 97%              ║
 ║  🎯 30s Record: 62 WPM  |  💯 Accuracy: 95%              ║
 ║  ⚡ 60s Record: 46 WPM  |  💯 Accuracy: 86%              ║
+║  ⏱️ 120s Record: 44 WPM |  💯 Accuracy: 83%              ║
 ║                                                           ║
-║  📊 Tests Completed: 137  |  🔥 Tests Started: 1379      ║
-║  ⏱️  Time Typing: 02:17:28                               ║
-║  🎮 Current Streak: 8 days                               ║
+║  📊 Tests Completed: 197  |  🔥 Tests Started: 1873      ║
+║  ⏱️  Time Typing: 02:53:38                               ║
+║  📈 Average WPM: 48  |  🎯 Last 10 Tests Avg: 55 WPM     ║
+║  🎮 Speed Improvement: +4.54 WPM per hour                ║
 ║                                                           ║
 ║   "My fingers move at the speed of light" — Barry Allen  ║
 ║                                                           ║
@@ -140,7 +142,7 @@ Git/GitHub • Docker • VS Code • Postman • Figma • Cargo/npm/Vite
    THE FLASH - KEYBOARD EDITION ⚡
             💨💨💨
              /|\     →→→→→→→→→→→  ⌨️⌨️⌨️
-            / \        70 WPM BLAST!
+            / \        76 WPM BLAST!
             
    "Life's too short for slow typing"
 ⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
@@ -215,6 +217,9 @@ Git/GitHub • Docker • VS Code • Postman • Figma • Cargo/npm/Vite
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/ARJUN-RAJESH-24)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF)](https://www.linkedin.com/in/arjun-rajesh-30860728b/)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF)](mailto:arjunrajesh59@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00F7FF)](https://arjun-rajesh-portfolio.web.app/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F7FF)](https://instagram.com/_.ar.j.xn._)
+[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00F7FF)](https://twitter.com/ARJUNRAJES10992)
 
 ---
 
@@ -244,5 +249,4 @@ Git/GitHub • Docker • VS Code • Postman • Figma • Cargo/npm/Vite
 
 ---
 
-*Last Updated: December 2025 | Version: Demon Mode 3.0 | Powered by: ∞*
-remove remove reference to demon mode except for my project
+*Last Updated: January 2026 | Powered by: ∞*
