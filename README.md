@@ -19,7 +19,7 @@ Currently focusing on:
 
 - Languages: C, C++, Java, Python  
 - Basics of web development  
-- Databases: SQL  
+- Databases: SQL,PSQL,Firebase,MongoDB
 
 ---
 
