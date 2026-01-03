@@ -1,280 +1,163 @@
-# 🎮 PLAYER: ARJUN RAJESH // LEVEL 21 // CLASS: SYSTEMS ARCHITECT
+# 🎮 ARJUN RAJESH — Systems-Oriented Software Engineer
 
-### *"With great power comes great compile times"* — Uncle Ben (probably)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF¢er=true&vCenter=true&width=600&lines=Backend+Sorcerer+%F0%9F%A7%99;System+Design+Enthusiast;Rust+%7C+React+%7C+Flutter;Building+The+Future%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Systems+Engineering+Enthusiast;C+%7C+C%2B%2B+%7C+Rust+%7C+Python;Performance%2C+Concurrency%2C+Low-Level;Building+Systems%2C+One+Commit+at+a+Time)](https://git.io/typing-svg)
 
 ---
 
-## 🏎️ CURRENT STATUS: **FULL THROTTLE**
+## 🧠 About Me
 
-```rust
-fn main() {
-    let arjun = Developer {
-        location: "Payyanur, Kerala 🌴",
-        age: 21,
-        motto: "Relentlessly Improving",
-        current_quest: vec![
-            "Mastering Cybersecurity 🛡️",
-            "System Architecture Domination 🏗️",
-            "Building Demon Mode Protocol App 💪",
-            "DSA Grind for FAANG+ 📈"
-        ],
-        power_level: usize::MAX,
-        legendary: true,
-    };
-    
-    loop {
-        arjun.code();
-        arjun.improve();
-        arjun.repeat();
-    }
-}
-```
+I’m a **Computer Science Engineering student** with a strong focus on **systems-level software development**.
+
+I care about:
+- Understanding how things work **under the hood**
+- Writing **predictable, debuggable, high-performance code**
+- Designing systems that scale **because they’re well thought out**, not because of magic abstractions
+
+I prefer:
+> **Understanding over abstraction**  
+> **Debugging over guessing**  
+> **Building over tutorials**
 
 ---
 
-## ⚡ SKILL TREE UNLOCKED
+## ⚙️ Core Focus Areas
 
-### 💻 Programming Arsenal
-**Main Weapons:** C ⚡ • C++ 💪 • Java ☕ • Rust ⚙️ • Python 🐍 • JavaScript/TypeScript 🎨 • Dart 🎯  
-**Secondary Gear:** SQL 📊 • Bash 🧙‍♂️
-
-### 🎨 Frontend Combat Gear
-React.js • Flutter • Tailwind CSS • HTML5/CSS3
-
-### 🔧 Backend Engineering Station
-Node.js + Express • Rust + Axum • Python + Flask • RESTful APIs
-
-### 🗄️ Database Command Center
-MySQL • PSQL • MongoDB • Firebase • SQLite
-
-### 🤖 AI/ML Arsenal
-TensorFlow • NumPy/Pandas • Real-ESRGAN
-
-### 🛠️ DevOps & Tools Garage
-Git/GitHub • Docker • VS Code • Postman • Figma • Cargo/npm/Vite
+- Operating Systems & Kernel Concepts  
+- Computer Architecture & Low-Level Design  
+- Performance, Concurrency & Parallelism  
+- Systems Programming (C / C++ / Rust)  
+- Reverse Engineering & Debugging  
+- System Design (LLD & HLD)  
+- Interview Readiness for **Systems / FAANG-style roles**
 
 ---
 
-## 🎯 LEGENDARY PROJECTS [HALL OF FAME]
+## 💻 Programming Languages
 
-### 🔐 **Password Vault** - *The Digital Fortress*
-> "Your secrets are safe with me... literally AES-256 safe."
+**Primary (Systems & Performance)**
+- C
+- C++
+- Rust
 
-**STACK:** Flutter • Dart • AES-256 Encryption  
-**STATUS:** ✅ Deployed & Unbreakable
+**Secondary (Tooling & Productivity)**
+- Python
+- Java
+- Bash / Shell
 
----
-
-### 🛡️ **WinKnight** - *The System Healer*
-> "Not all heroes wear capes. Some restore system points."
-
-**STACK:** C# • Windows API • System Automation  
-**ABILITY:** Auto-diagnoses, creates restore points, fixes Windows issues
-
----
-
-### 💪 **Demon Mode Protocol App** - *The Discipline Tracker*
-> "What gets measured gets improved. What gets tracked becomes legendary."
-
-**STACK:** Flutter • TypeScript • Firebase • SQLite  
-**FEATURES:** Training logs, nutrition tracking, Demon Score progression
+**Working Knowledge**
+- JavaScript / TypeScript
+- SQL
 
 ---
 
-### 📊 **CBSE Result Portal** - *The Academic Gateway*
-> "With great grades comes... well, this portal tells you what comes."
+## 🛠️ Tooling & Engineering Stack
 
-**STACK:** Node.js • Express • Handlebars • Python  
-**REPO:** [Check it out](https://github.com/ARJUN-RAJESH-24/CBSE-Exam-Result-Publisher-and-Student-Viewing-Site)
+**Compilers & Toolchains**
+- GCC / Clang
+- MSVC
+- Rust + Cargo
+- OpenJDK
 
----
+**Debugging & Profiling**
+- GDB
+- WinDbg Preview
+- x64dbg
+- Valgrind
+- perf
+- strace / ltrace
 
-### 📐 **Advanced Geometric Shape Generator** - *The Dimension Bender*
-**STACK:** Java • Swing  
-**VIBE:** 2D/3D visualization for the modern age
+**Reverse Engineering**
+- Ghidra
+- IDA Free
+- objdump / readelf / nm
+- Wireshark
+- Process Explorer / Process Monitor
 
----
+**Build & Infra**
+- CMake
+- Make
+- Ninja
+- Docker
+- QEMU
+- VirtualBox / VMware
 
-### 🎨 **AI Video & Photo Upscaler** - *The Pixel Enhancer*
-**STACK:** Python • Flask • Tailwind • Real-ESRGAN  
-**SUPERPOWER:** Makes your grandma's old photos look 4K
-
----
-
-### 📅 **Semester Planner** - *The Time Lord*
-**STACK:** Python • Tkinter  
-**UTILITY:** Maximum organization, minimum chaos
-
----
-
-### 🌐 **Portfolio Website** - *The Digital Identity*
-**STACK:** HTML • CSS • JavaScript  
-**DESIGN:** Responsive, clean, legendary
-
----
-
-## ⚡ TYPING SPEED: FLASH MODE ACTIVATED
-
-```
-╔═══════════════════════════════════════════════════════════╗
-║            ⌨️  MONKEYTYPE SPEEDSTER STATS  ⚡             ║
-╠═══════════════════════════════════════════════════════════╣
-║                                                           ║
-║  🏆 15s Record: 76 WPM  |  💯 Accuracy: 97%              ║
-║  🎯 30s Record: 62 WPM  |  💯 Accuracy: 95%              ║
-║  ⚡ 60s Record: 46 WPM  |  💯 Accuracy: 86%              ║
-║  ⏱️ 120s Record: 44 WPM |  💯 Accuracy: 83%              ║
-║                                                           ║
-║  📊 Tests Completed: 197  |  🔥 Tests Started: 1873      ║
-║  ⏱️  Time Typing: 02:53:38                               ║
-║  📈 Average WPM: 48  |  🎯 Last 10 Tests Avg: 55 WPM     ║
-║  🎮 Speed Improvement: +4.54 WPM per hour                ║
-║                                                           ║
-║   "My fingers move at the speed of light" — Barry Allen  ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
-
-```ascii
-⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
-   THE FLASH - KEYBOARD EDITION ⚡
-            💨💨💨
-             /|\     →→→→→→→→→→→  ⌨️⌨️⌨️
-            / \        76 WPM BLAST!
-            
-   "Life's too short for slow typing"
-⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡⚡
-```
-
-[![MonkeyType Profile](https://img.shields.io/badge/MonkeyType-arjunr24-FF6600?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAAi0lEQVR42mNkgAJGBgYmBjYQm5mBhZmZkYWRhZWVjY2djZWNjY2VjZWVlY2NlZWVjY2VlZWNjY2VlZWVjY2NlZWVjY2NlZWVlY2VjY2NlZWVjZWVlY2NjY2VlZWVlZWNjY2NlZWVlZWVjY2NjZWVlZWVlY2NjZWVlZWVlZWNjY2VlZWVlZWVjQ0AAGNVBC88C/FwAAAABJRU5ErkJggg==&logoColor=white)](https://monkeytype.com/profile/arjunr24)
+**Platforms**
+- Linux (daily driver)
+- Windows
+- BSD (FreeBSD / OpenBSD exploration)
 
 ---
 
-## 🎬 THE MULTIVERSE OF INFLUENCES
+## 📚 CS Foundations
 
-```ascii
-   ⚡ GOJO SATORU ⚡                            🏎️ MAX VERSTAPPEN 🏎️
-      ∞∞∞∞∞∞∞∞∞∞∞                                  🏁 #1 🏁
-         ∞ 👁️ 👁️ ∞                             ═══🏎️═══>💨💨💨
-         ∞ ___ ∞               
-         ∞ | ⚡ | ∞                              "Simply Lovely"
-       ∞∞∞∞∞∞∞∞∞∞∞                                        
-                                                "Box box, we are checking"
-     "Limitless"                                         
-  Domain Expansion on                         Fastest Coder on the Grid
-     Code Problems            
-```
+- Operating Systems  
+- Computer Networks  
+- Computer Architecture  
+- DBMS  
+- Parallel Programming  
+- Embedded Systems  
 
-```ascii
-     🦇 BATMAN 🦇                                💥 SAITAMA 💥
-        /\_/\                                        ● ●
-       ( o.o )                                       \__/
-        > ^ <                                         ====
-       /|   |\                                     /| | |\
-      (_|   |_)                                    (_| |_)
-                                                     | | |
-   "I'm vengeance                               "OK" *destroys
-    I'm the night                                any bug with
-    I'm Batman"                                  one punch*
-    
-  Gotham's Debugger                           One Commit Man
-```
+Solid fundamentals matter more than hype.
 
 ---
 
-## 📈 POWER STATS & ACHIEVEMENTS
+## 🧮 DSA & Problem Solving
 
-<div align="center">
+- Consistent **daily problem solving**
+- Focus on patterns, edge cases, and explanation clarity
+- Platforms:
+  - LeetCode
+  - Codeforces
+  - HackerRank
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ARJUN-RAJESH-24&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF)
-
-</div>
-
-```
-📊 GITHUB STATS OVERVIEW
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-🔥 Main Languages: C, C++, Java, Rust, Python, TypeScript, Dart
-💼 Projects: Password Vault, WinKnight, Demon Mode Protocol, AI Upscaler
-⚡ Current Focus: System Architecture, Cybersecurity, FAANG Prep
-🎯 Specialty: Backend Development, Full-Stack Applications, AI/ML
-🚀 Tech Stack: React, Flutter, Node.js, Rust, Docker, Firebase
-📚 Learning: Advanced DSA, System Design, Competitive Programming
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+Rule I follow:
+> One problem a day. No skipping.
 
 ---
 
-## 💬 LEGENDARY QUOTES
+## 🔥 GitHub Streak
 
-> *"Perfectly balanced code, as all things should be."* — Thanos
-
-> *"I can do this all day... debugging."* — Captain America
-
-> *"It's not who I am underneath, but what I code that defines me."* — Batman
-
-> *"To finish first, first you have to finish (your code)."* — Every F1 Driver
-
-> *"I live my life one commit at a time."* — Dom Toretto
-
-> *"With great power comes great documentation."* — Uncle Ben (Developer Edition)
-
-> *"Nah, I'd win."* — Gojo Satoru (before a code review)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ARJUN-RAJESH-24&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
-## 🔗 CONNECT WITH THE DEVELOPER
+## 🏆 GitHub Trophies
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F7FF)](https://github.com/ARJUN-RAJESH-24)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F7FF)](https://www.linkedin.com/in/arjun-rajesh-30860728b/)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F7FF)](mailto:arjunrajesh59@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=google-chrome&logoColor=00F7FF)](https://arjun-rajesh-portfolio.web.app/)
-[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00F7FF)](https://instagram.com/_.ar.j.xn._)
-[![Twitter](https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=00F7FF)](https://twitter.com/ARJUNRAJES10992)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ARJUN-RAJESH-24&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-```ascii
-╔═══════════════════════════════════════════════════════════╗
-║                                                           ║
-║      🚀 BUILDING THE FUTURE, ONE COMMIT AT A TIME 🚀      ║
-║                                                           ║
-║    "In a world of code, be the compiler that never fails" ║
-║                                                           ║
-╚═══════════════════════════════════════════════════════════╝
-```
+## 💻 Programming Language Activity
 
-### 📊 Profile Views & Achievements
-
-![Profile Views](https://komarev.com/ghpvc/?username=ARJUN-RAJESH-24&color=00F7FF&style=for-the-badge)
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ARJUN-RAJESH-24&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
-
-```
-🏆 ACHIEVEMENT UNLOCKED
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✨ 8+ Major Projects Completed
-🎯 Multiple Tech Stacks Mastered
-⚡ 76 WPM Typing Speed Champion
-🔥 Consistent GitHub Contributor
-💪 Full-Stack Developer
-🛡️ Cybersecurity Enthusiast
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/ARJUN-RAJESH-24)
 
 ---
 
-### ⭐ If you like what you see, drop a star on my repos!
+## 📊 GitHub Activity Overview
 
-**STATUS:** `Currently accepting collaboration requests for epic projects` 🤝
-
-*"Legen... wait for it... dary! LEGENDARY!"* — Barney Stinson
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARJUN-RAJESH-24&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/ARJUN-RAJESH-24)
 
 ---
 
-*Last Updated: January 2026 | Powered by: ∞*
+## 🎯 Engineering Philosophy
+
+- Learn **close to the metal**
+- Write code you can **explain on a whiteboard**
+- Debug before asking for help
+- AI is a **tool**, not a **dependency**
+- Long-term mastery > short-term hype
+
+Primary goal:
+> Be able to design, build, debug, and explain systems independently.
+
+---
+
+## 🔗 Connect
+
+- 🌐 Portfolio: https://arjun-rajesh-portfolio.web.app/
+- 💼 LinkedIn: https://linkedin.com/in/arjun-rajesh-30860728b
+- 📧 Email: arjunrajesh59@gmail.com
+
+---
+
+> *“In a world of abstractions, be the engineer who understands reality.”*
