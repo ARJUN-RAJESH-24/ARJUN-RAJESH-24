@@ -47,6 +47,10 @@ I prefer:
 **Working Knowledge**
 - JavaScript / TypeScript
 - SQL
+- PSQL
+- Firebase
+- Flutter
+- Pytorch & Tensorflow
 
 ---
 
