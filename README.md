@@ -1,52 +1,77 @@
 # Hi, I’m Arjun 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=20\&pause=1200\&color=4A90E2\&center=true\&vCenter=true\&width=520\&lines=Computer+Science+Engineering+Student;Systems+and+Software+Development;Learning+by+Building+and+Breaking)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4A90E2&center=true&vCenter=true&width=560&lines=Computer+Science+Engineering+Student;Systems+Programming+%26+Low-Level+Development;Learning+by+Building+and+Breaking)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a **Computer Science Engineering student** with a strong interest in **software development and core computer science concepts**. I enjoy understanding how systems work at a deeper level and continuously improving my skills through disciplined practice and hands-on projects.
+I’m a **Computer Science Engineering student** with a strong focus on **core computer science, systems programming, and software engineering fundamentals**.
 
-**Currently focused on:**
+I care less about frameworks and more about **how things actually work**—memory, processes, binaries, networks, and performance.  
+I learn by **building**, **breaking**, and **reading what the machine is really doing**.
 
-* Strengthening fundamentals in programming and problem-solving
-* Practicing **Data Structures & Algorithms**
-* Building small-to-medium projects to apply concepts practically
+### Current Focus
+- Mastering **C & C++** (memory, pointers, object lifetimes)
+- **Data Structures & Algorithms** with problem-first thinking
+- **Low-level systems concepts** (OS, processes, files, networking)
+- Reverse-engineering mindset: *observe → analyze → understand*
 
 ---
 
-## 🛠 Tech Stack
+## 🧠 Core Skills
 
-**Languages**
+### Programming Languages
+- **C, C++** (primary focus)
+- Java
+- Python
 
-* C, C++, Java, Python
+### Systems & Tools
+- Linux (daily driver)
+- Git & GitHub
+- Debugging & profiling fundamentals
+- Basic reverse engineering exposure
 
-**Web & Backend (Basics)**
+### Web & Backend (Foundational)
+- HTML, CSS, JavaScript
+- REST concepts
 
-* HTML, CSS, JavaScript
+### Databases
+- SQL
+- PostgreSQL
+- MongoDB
+- Firebase
 
-**Databases**
+---
 
-* SQL, PostgreSQL, MongoDB, Firebase
+## 📂 What You’ll Find Here
+
+- **Concept-driven repositories** (not tutorial dumps)
+- Clean, readable code with intent
+- Practice implementations of:
+  - DSA patterns
+  - Memory management
+  - OS & systems concepts
+- Projects designed to *teach*, not just *exist*
 
 ---
 
 ## 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ARJUN-RAJESH-24\&theme=default\&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ARJUN-RAJESH-24&theme=default&hide_border=true)](https://git.io/streak-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24\&layout=compact\&hide_border=true)](https://github.com/ARJUN-RAJESH-24)
-
----
-
-## 🎯 Goals
-
-* Build a strong foundation in computer science
-* Develop real-world, practical projects
-* Continuously improve problem-solving and coding skills
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24&layout=compact&hide_border=true)](https://github.com/ARJUN-RAJESH-24)
 
 ---
 
-Thanks for visiting my profile 🙂
-Feel free to explore my repositories and follow my learning journey.
+## 🎯 Long-Term Goals
+
+- Become **exceptionally strong in core CS**
+- Build **systems-level projects** that demonstrate depth
+- Earn credibility through **understanding**, not hype
+- Write code that survives scrutiny
+
+---
+
+Thanks for visiting.  
+If you care about **clarity, correctness, and fundamentals**, you’ll feel at home here.
