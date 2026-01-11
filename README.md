@@ -1,12 +1,11 @@
-# Hi, I’m Arjun 👋
-
+# Hi, I'm Arjun 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4A90E2&center=true&vCenter=true&width=560&lines=Computer+Science+Engineering+Student;Systems+Programming+%26+Low-Level+Development;Learning+by+Building+and+Breaking)](https://git.io/typing-svg)
 
 ---
 
 ## 👨‍💻 About Me
 
-I’m a **Computer Science Engineering student** with a strong focus on **core computer science, systems programming, and software engineering fundamentals**.
+I'm a **Computer Science Engineering student** with a strong focus on **core computer science, systems programming, and software engineering fundamentals**.
 
 I care less about frameworks and more about **how things actually work**—memory, processes, binaries, networks, and performance.  
 I learn by **building**, **breaking**, and **reading what the machine is really doing**.
@@ -44,7 +43,7 @@ I learn by **building**, **breaking**, and **reading what the machine is really 
 
 ---
 
-## 📂 What You’ll Find Here
+## 📂 What You'll Find Here
 
 - **Concept-driven repositories** (not tutorial dumps)
 - Clean, readable code with intent
@@ -58,9 +57,15 @@ I learn by **building**, **breaking**, and **reading what the machine is really 
 
 ## 📊 GitHub Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=ARJUN-RAJESH-24&theme=default&hide_border=true)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARJUN-RAJESH-24&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24&layout=compact&hide_border=true)](https://github.com/ARJUN-RAJESH-24)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ARJUN-RAJESH-24&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24&layout=compact&theme=default&hide_border=true&langs_count=8)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=ARJUN-RAJESH-24&theme=flat&no-frame=true&row=1&column=7)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ARJUN-RAJESH-24&color=4A90E2&style=flat)
 
 ---
 
@@ -74,4 +79,4 @@ I learn by **building**, **breaking**, and **reading what the machine is really 
 ---
 
 Thanks for visiting.  
-If you care about **clarity, correctness, and fundamentals**, you’ll feel at home here.
+If you care about **clarity, correctness, and fundamentals**, you'll feel at home here.
