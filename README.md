@@ -1,5 +1,6 @@
 # Hi, I'm Arjun 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4A90E2&center=true&vCenter=true&width=560&lines=Computer+Science+Engineering+Student;Systems+Programming+%26+Low-Level+Development;Learning+by+Building+and+Breaking)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4A90E2&center=true&vCenter=true&width=560&lines=Computer+Science+Engineering+Student;Systems+Programming+%26+Low-Level+Development;Learning+by+Building+and+Breaking)](https://github.com/ARJUN-RAJESH-24)
 
 ---
 
@@ -80,3 +81,14 @@ I learn by **building**, **breaking**, and **reading what the machine is really 
 
 Thanks for visiting.  
 If you care about **clarity, correctness, and fundamentals**, you'll feel at home here.
+
+## 📫 Connect with Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-ARJUN--RAJESH--24-181717?style=for-the-badge&logo=github)](https://github.com/ARJUN-RAJESH-24)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+---
+
+<div align="center">
+  <i>Built with intent. Written with clarity. Designed to last.</i>
+</div>
