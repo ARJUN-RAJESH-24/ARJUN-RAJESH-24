@@ -66,15 +66,11 @@ I learn by **building**, **breaking**, and **reading what the machine is really 
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARJUN-RAJESH-24\&show_icons=true\&theme=default\&hide_border=true\&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARJUN-RAJESH-24&show_icons=true&hide_border=true&count_private=true)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ARJUN-RAJESH-24\&theme=default\&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ARJUN-RAJESH-24&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24\&layout=compact\&theme=default\&hide_border=true\&langs_count=8)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=ARJUN-RAJESH-24\&theme=flat\&no-frame=true\&row=1\&column=7)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ARJUN-RAJESH-24\&color=4A90E2\&style=flat)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24&layout=compact&hide_border=true&langs_count=8)
 
 ---
 
