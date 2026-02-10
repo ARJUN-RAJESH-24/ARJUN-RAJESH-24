@@ -66,8 +66,6 @@ I learn by **building**, **breaking**, and **reading what the machine is really 
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ARJUN-RAJESH-24&show_icons=true&hide_border=true&count_private=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ARJUN-RAJESH-24&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ARJUN-RAJESH-24&layout=compact&hide_border=true&langs_count=8)
